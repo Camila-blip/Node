@@ -1,3 +1,3 @@
-this.ola = 'Teste de exportação'
-exports.bemvindo = 'Teste 2 de exportação'
-module.exports.atelogo =  Teste 3 de exportação'
+this.ola = 'fala pessoal'
+exports.bemvindo = 'Bem vindo pessoal'
+module.exports.atelogo =  'até o proximo exemplo'
